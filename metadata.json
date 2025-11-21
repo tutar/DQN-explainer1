@@ -1,0 +1,5 @@
+{
+  "name": "DQN 交互式学习助手",
+  "description": "一个互动式的 Deep Q-Network (DQN) 学习平台，包含可视化模拟、架构解析和 AI 导师功能。",
+  "requestFramePermissions": []
+}
